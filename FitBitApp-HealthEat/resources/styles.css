@@ -1,0 +1,38 @@
+.background {
+  viewport-fill: red;
+}
+
+#Color {
+  font-size: 35;
+  font-family: System-Bold;
+  text-length: 32;
+  x: 30%;
+  y: 50%+10;
+  text-anchor: start;
+  fill: yellow;
+ 
+}
+
+#Score {
+  font-size: 50;
+  font-family: System-Bold;
+  text-length: 32;
+  x: 40%;
+  y: 50%+90;
+  fill: blue;
+    text-anchor: middle;
+
+}
+
+#FoodName {
+  font-size: 30;
+  font-family: System-Bold;
+  text-length: 32;
+  x: 70%;
+  y: 20%;
+  fill: black;
+    text-anchor: end;
+
+}
+
+

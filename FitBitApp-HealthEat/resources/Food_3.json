@@ -1,0 +1,22 @@
+{
+   "FoodName": "Ice Pop",
+   "Ingredient": {
+      "Name": "WheatFlour",
+      "omega3": false,
+      "heartHealthy": false,
+      "brainHealthy": false,
+      "boneHealthy": true,
+      "jointHealthy": false,
+      "antioxidant": false,
+      "minerals": true,
+      "vitamins": true,
+      "natural": true,
+      "carcinogen": false,
+      "hormoneDisruptor": false,
+      "highCholesterol": false,
+      "automaticDoNotEat": false,
+      "isUnknown": false
+   },
+   "Score": 12,
+   "Color": "Red"
+}

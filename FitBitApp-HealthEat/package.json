@@ -1,0 +1,19 @@
+{
+  "fitbit": {
+    "appUUID": "4a033ec4-2b6b-4f29-9aa0-6f3fae58add5",
+    "appType": "clockface",
+    "appDisplayName": "Dog",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": [],
+    "buildTargets": [
+      "higgs",
+      "meson"
+    ],
+    "i18n": {
+      "en": {
+        "name": "Dog"
+      }
+    }
+  }
+}

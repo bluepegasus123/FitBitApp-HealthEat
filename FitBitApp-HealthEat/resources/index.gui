@@ -1,0 +1,9 @@
+
+
+<svg class="background">
+  <image href="dog.jpeg" load="sync" />
+  <text id="FoodName" />
+  <text id="Score" />
+  <text id="Color" />
+</svg>
+
