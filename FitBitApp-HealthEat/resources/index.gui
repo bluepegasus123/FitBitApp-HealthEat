@@ -1,9 +1,13 @@
 
 
 <svg class="background">
-  <image href="dog.jpeg" load="sync" />
-  <text id="FoodName" />
-  <text id="Score" />
-  <text id="Color" />
+  
+  <text id="foodName" />
+  <text id= "score" />
+  <text id = "glutenFree" />
+  <text id = "brainHealth" />
+  <text id = "automaticDoNotEat" />
+  <text id = "isCarcinogenic" />
+  
 </svg>
 

@@ -1,9 +1,8 @@
 {
-"foodName": "Dorritos",
-	"score": 37,
+"foodName": "Cheetos",
+	"score": 38,
 	"glutenFree": false,
 	"brainHealth": false,
 	"automaticDoNotEat": true,
-  "isCarcinogenic": true
-	
+	"isCarcinogenic": true
 }
