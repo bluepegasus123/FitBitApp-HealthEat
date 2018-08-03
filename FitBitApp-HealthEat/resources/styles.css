@@ -1,38 +1,62 @@
 .background {
-  viewport-fill: red;
+  viewport-fill: black;
 }
 
-#Color {
-  font-size: 35;
-  font-family: System-Bold;
-  text-length: 32;
-  x: 30%;
-  y: 50%+10;
-  text-anchor: start;
-  fill: yellow;
- 
-}
 
-#Score {
-  font-size: 50;
+#score {
+  font-size: 65;
   font-family: System-Bold;
   text-length: 32;
-  x: 40%;
-  y: 50%+90;
+  x: 20%;
+  y: 50%+20;
   fill: blue;
     text-anchor: middle;
 
 }
 
-#FoodName {
+#foodName {
   font-size: 30;
   font-family: System-Bold;
   text-length: 32;
   x: 70%;
   y: 20%;
-  fill: black;
+  fill: white;
     text-anchor: end;
 
 }
 
+#glutenFree {
+  fill: yellow;
+  font-size:15;
+  x:50%;
+  y:60%;
+  text-length: 20;
+ 
+}
+
+#brainHealth {
+  fill: red;
+    font-size:15;
+  x:50%;
+  y:50%;
+  
+  text-length: 20;
+
+}
+ 
+#automaticDoNotEat {
+  fill: white;
+    font-size:15;
+  x:50%;
+  y:70%;
+text-length: 20;
+}
+
+#isCarcinogenic {
+  fill: white;
+  text-length: 20;
+  x:50%;
+  y:80%;
+  font-size:15;
+}
 
